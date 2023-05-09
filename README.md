@@ -3,6 +3,9 @@
 ## Description
 As required by the project, my site can generate password as the the guidlines which also includes the optional choices of lowercase, uppercase, numbers & special characters. My site includues the starter code provided and added functions in javascript to make it work as per requirements.
 
+## Visit my website here:
+https://pra18apr.github.io/Generate-password-project/
+
 ## Examples of functions added to JS
 Firstly, In the  below snapshot, I created var to provide option to select between the choices of lowercase, uppercase, numbers & special charachers.
 
